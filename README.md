@@ -23,4 +23,4 @@ Email: Vaibhav.Shrivathsa@gmail.com
 
 LinkedIn: [https://www.linkedin.com/in/vaibhav-shrivathsa/](https://www.linkedin.com/in/vaibhav-shrivathsa/)
 
-Personal Website: [cs.utexas.edu/~vrs](cs.utexas.edu/~vrs)
+Personal Website: [cs.utexas.edu/~vrs](https://www.cs.utexas.edu/~vrs)
