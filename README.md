@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello!
+I am currently a computer science and mathematics student at UT Austin. 
+
+You can contact me at:
+
+Email: Vaibhav.Shrivathsa@gmail.com
+
+LinkedIn: [https://www.linkedin.com/in/vaibhav-shrivathsa/](https://www.linkedin.com/in/vaibhav-shrivathsa/)
+
+Personal Website: [cs.utexas.edu/~vrs](cs.utexas.edu/~vrs)
